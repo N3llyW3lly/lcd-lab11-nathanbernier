@@ -1,2 +1,1 @@
-lcdprint(hello
-)
+lcdprint("hello world")
